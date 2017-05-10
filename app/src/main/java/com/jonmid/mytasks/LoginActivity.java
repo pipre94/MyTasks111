@@ -21,7 +21,7 @@ public class LoginActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
-    public void goCreateContainer(View view){
+    public void goContainer (View view){
         Intent intent = new Intent(this, ContainerActivity.class);
         startActivity(intent);
     }
