@@ -3,7 +3,7 @@
     <tab
 
         id="@+id/tab_search"
-        icon="@drawable/ic_favorites"
+        icon="@drawable/search_50"
         title="@string/str_tab_search"
         barColorWhenSelected="@color/colorPrimary"
         />
@@ -11,7 +11,7 @@
     <tab
 
         id="@+id/tab_home"
-        icon="@drawable/ic_nearby"
+        icon="@drawable/home_50"
         title="@string/str_tab_home"
         barColorWhenSelected="@color/colorPrimary"
         />
@@ -19,7 +19,7 @@
     <tab
 
         id="@+id/tab_profile"
-        icon="@drawable/ic_friends"
+        icon="@drawable/user_50"
         title="@string/str_tab_profile"
         barColorWhenSelected="@color/colorPrimary"
         />
